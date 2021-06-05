@@ -1,0 +1,8 @@
+<a routerLink="/">Home</a>
+
+<ng-container *ngFor="let item of categories">
+    <a routerLink="category" [queryParams]="{ q: item }"> {{ item }}</a> 
+</ng-container>
+
+
+

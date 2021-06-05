@@ -1,0 +1,8 @@
+.product-box{
+    color: #3e3e3e;
+    box-shadow: 1px 0px 2px 1px #bfbdbd;
+    padding: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 10px;
+}

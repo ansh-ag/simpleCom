@@ -1,0 +1,7 @@
+<ng-container *ngFor="let item of products">
+
+    <div class="product-box" routerLink="/{{item.id}}" >
+        <p>Product Name :  {{item.name}}</p>
+        <p>Product Price :  {{item.price}}</p>    
+    </div>
+</ng-container>

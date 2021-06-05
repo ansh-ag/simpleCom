@@ -1,0 +1,88 @@
+
+[
+    {
+        "id": 1,
+        "category": "Men",
+        "price":1000,
+        "name":"Men Shirt"
+
+    },
+    {
+        "id": 2,
+        "category": "Men",
+        "price":2000,
+        "name":"Men T-Shirt"
+    },
+    {
+        "id": 3,
+        "category": "Men",
+        "price":3000,
+        "name":"Men Lower"
+    },
+    {
+        "id": 4,
+        "category": "Men",
+        "price":4000,
+        "name":"Men Jeans"
+    },
+
+    {
+        "id": 5,
+        "category": "Women",
+        "price":1000,
+        "name":"Women Shirt"
+
+    },
+    {
+        "id": 6,
+        "category": "Women",
+        "price":2000,
+        "name":"Women T-Shirt"
+    },
+    {
+        "id": 7,
+        "category": "Women",
+        "price":3000,
+        "name":"Women Lower"
+    },
+    {
+        "id": 8,
+        "category": "Women",
+        "price":4000,
+        "name":"Women Jeans"
+    },
+    {
+        "id": 9,
+        "category": "Kids",
+        "price":5000,
+        "name":"Kids Shirt"
+
+    },
+    {
+        "id": 10,
+        "category": "Kids",
+        "price":57000,
+        "name":"Kids T-Shirt"
+    },
+    {
+        "id": 11,
+        "category": "Kids",
+        "price":53000,
+        "name":"Kids Lower"
+    },
+    {
+        "id": 12,
+        "category": "Women",
+        "price":34000,
+        "name":"Kids Jeans"
+    },
+    {
+        "id": 12,
+        "category": "abs",
+        "price":34000,
+        "name":"Kids Jeans"
+    }
+
+
+
+]
